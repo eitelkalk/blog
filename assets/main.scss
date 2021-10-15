@@ -18,6 +18,10 @@ a,a:visited{
 	text-decoration: none;
 	cursor: pointer;
 }
+a:hover{
+	color: rgba(225,48,45,.3);
+    text-decoration: none;
+}
 site-title,page-title{
 	color: $color-red;
 	text-transform: uppercase;
