@@ -8,7 +8,7 @@ $color-red: #c7423f; /*#e1302d*/
 
 html,body{font-family: 'Montserrat', sans-serif;}
 h1 {color: $color-red;}
-a,a:visited{
+.page-content a,.page-content a:visited{
 	color: $color-red;
 	padding-bottom: .05em;
     border-bottom-width: 1px;
