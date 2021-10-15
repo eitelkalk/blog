@@ -28,7 +28,7 @@ twitter_username: rapprach
 github_username:  rachrapp
 
 # Build settings
-theme: minima
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
