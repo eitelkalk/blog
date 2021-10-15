@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+$color-red: #c7423f; /*#e1302d*/
+
+html {font-family: 'Montserrat', sans-serif;}
+h1 {color: $color-red;}
+a {
+	color: $color-red;
+	padding-bottom: .05em;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: rgba(225,48,45,.3);
+	transition: border-color .15s ease-out,color .15s ease-out;
+	text-decoration: none;
+	cursor: pointer;
+}
